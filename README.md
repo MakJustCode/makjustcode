@@ -10,5 +10,5 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Games.
 - 🤔 I’m looking for help with C# and ASP.NET.
 - 💬 Ask me about React.js, HTML, CSS.
-- 📫 How to reach me: 
+<!-- 📫 How to reach me: -->
 - ⚡ Fun fact: I build PC's on spare time.
