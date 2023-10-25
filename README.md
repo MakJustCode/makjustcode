@@ -11,5 +11,5 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning C# and ASP.NET.
 - 👯 I’m looking to collaborate on Games.
 - 🤔 I’m looking for help with C# and ASP.NET.
-- 💬 Ask me about React.js, HTML, CSS.
+- 💬 Ask me about React.js, HTML, and CSS.
 - ⚡ Fun fact: I build PC's on spare time.
