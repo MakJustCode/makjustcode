@@ -13,3 +13,10 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with C# and ASP.NET.
 - 💬 Ask me about React.js, HTML, and CSS.
 - ⚡ Fun fact: I build PC's on spare time.
+
+const welcome = (hello) => {
+  hello = "Welcome to my GitHub, copy this JavaScript ES6 code and run it in a compiler"
+    return hello;
+};
+
+console.log(welcome());
