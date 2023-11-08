@@ -8,10 +8,10 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on https://makensonn.github.io.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning more oon TypeScript.
 - 👯 I’m looking to collaborate on Unity Games.
-- 🤔 I’m looking for help with TypeScript.
-- 💬 Ask me about React, JavaScrit, HTML, and CSS.
+- 🤔 I’m looking for help with TypeScript projects.
+- 💬 Ask me about React, JavaScript, HTML, and CSS.
 - ⚡ Fun fact: I build PC's on spare time.
 
 const welcome = (hello) => {
