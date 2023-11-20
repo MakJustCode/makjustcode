@@ -8,7 +8,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on https://makensonn.github.io.
-- 🌱 I’m currently learning more on TypeScript.
+- 🌱 I’m currently learning more on React and TypeScript.
 - 👯 I’m looking to collaborate on Unity Games.
 - 🤔 I’m looking for help with TypeScript projects.
 - 💬 Ask me about React, JavaScript, HTML, and CSS.
