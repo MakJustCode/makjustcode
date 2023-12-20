@@ -9,14 +9,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on https://makenson.com/
 - 🌱 I’m currently learning more on React and TypeScript.
-- 👯 I’m looking to collaborate on Unity Games.
-- 🤔 I’m looking for help with TypeScript projects.
+- 👯 I’m looking to collaborate on Three.js Games.
+- 🤔 I’m looking for help with JavaScript projects.
 - 💬 Ask me about React, JavaScript, HTML, and CSS.
 - ⚡ Fun fact: I build PC's on spare time.
-
-const welcome = (hello) => {
-  hello = "Welcome to my GitHub, copy this and run it in a compiler"
-    return hello;
-};
-
-console.log(welcome());
