@@ -40,9 +40,8 @@ Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Software
 
 ## 🌍 Connect with Me
 
-- 📫 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/makensonnoel/)
+- 🐦 Twitter: [@MakMadeIt](https://twitter.com/MakMadeIt)
 
 ## 🤝 Let's Collaborate
 
