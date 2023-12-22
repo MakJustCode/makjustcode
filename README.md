@@ -38,7 +38,7 @@ Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Software
 
 ## 🌍 Connect with Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/makensonnoel/)
+- 💼 LinkedIn: [MakensoN Noel](https://www.linkedin.com/in/makensonnoel/)
 - 🐦 X: [@MakMadeIt](https://twitter.com/MakMadeIt)
 
 ## 🤝 Let's Collaborate
