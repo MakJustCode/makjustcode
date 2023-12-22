@@ -7,7 +7,7 @@
 
 # 👋 Hello, World!
 
-Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Software Engineer based in https://makenson.com/.
+Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Front-End Engineer.
 
 ## 🌱 What I'm Currently Up To
 
