@@ -23,8 +23,10 @@ Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Software
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=for-the-badge)
 
 ### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-black?logo=express&style=for-the-badge)
