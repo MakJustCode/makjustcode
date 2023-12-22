@@ -16,10 +16,6 @@ Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Software
 - 👯 I’m looking to collaborate on Three.js Games.
 - 🤔 I’m looking for help with JavaScript projects.
 - 💬 Ask me about React, JavaScript, HTML, and CSS.
-- ⚡ Fun fact: I build PC's on spare time.
-- 🔭 Exploring [Current Project/Interest]
-- 📚 Learning [Current Technology/Tool]
-- 🌐 Contributing to [Open Source Project/Community]
 
 ## 🚀 My Toolbox
 
@@ -40,8 +36,8 @@ Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Software
 
 ## 🌍 Connect with Me
 
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/makensonnoel/)
-- 🐦 Twitter: [@MakMadeIt](https://twitter.com/MakMadeIt)
+- 💼 LinkedIn: (https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/makensonnoel/)
+- 🐦 X: [@MakMadeIt](https://twitter.com/MakMadeIt)
 
 ## 🤝 Let's Collaborate
 
