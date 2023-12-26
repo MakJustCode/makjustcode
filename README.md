@@ -7,7 +7,7 @@
 
 # 👋 Hello, World!
 
-Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Full Stack Engineer.
+Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Full-Stack Engineer.
 
 ## 🌱 What I'm Currently Up To
 
