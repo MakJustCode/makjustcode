@@ -46,4 +46,3 @@ Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Full Sta
 I'm always open to interesting projects and collaborations. If you have an idea or just want to chat, feel free to reach out. Let's build something awesome together! 🌟
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
-
