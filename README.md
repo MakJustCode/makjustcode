@@ -39,7 +39,7 @@ Welcome to my corner of the GitHub universe! I'm Makenson, a passionate Full-Sta
 ## 🌍 Connect with Me
 
 - 💼 LinkedIn: [Makenson Noel](https://www.linkedin.com/in/makensonnoel/)
-- 🐦 X: [@MakMadeIt](https://twitter.com/MakJustCode)
+- 🐦 X: [@MakJustCode](https://twitter.com/MakJustCode)
 
 ## 🤝 Let's Collaborate
 
