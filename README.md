@@ -39,7 +39,7 @@ Welcome to my corner of the GitHub universe! I'm Mak, a passionate Full-Stack En
 ## 🌍 Connect with Me
 
 - 💼 LinkedIn: [Makenson Noel](https://www.linkedin.com/in/makensonnoel/)
-- 🐦 X: [@MakJustCode](https://twitter.com/MakJustCode)
+- 🐦 X: [@MakMadeIt](https://twitter.com/MakMadeIt)
 
 ## 🤝 Let's Collaborate
 
